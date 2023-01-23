@@ -20,7 +20,7 @@ docker login quay.io/raffaelespazzoli/backstage
 docker push quay.io/raffaelespazzoli/backstage:latest
 ```
 
-note the images is already pushed to `ghcr.io/raf-backstage-demo/backstage-app-demo:main`
+note the images is already pushed to `ghcr.io/diegorodrigues87/backstage-app-demo:main`
 
 
 changes to be applied
